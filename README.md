@@ -2,6 +2,8 @@
 
 A simple and interactive Stop-Watch application built with React. This app allows you to start, stop, and reset a digital stopwatch, displaying the elapsed time in a formatted manner.
 
+![Clock App Screenshot](./.github/screen.png)
+
 ## Features
 
 - **Start**: Begin the stopwatch and start measuring elapsed time.
